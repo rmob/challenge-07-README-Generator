@@ -10,6 +10,7 @@ This app requires Node.js and Inquirer 8.2.4
 ## Usage
 This is a CLI application
 
+[README generator walk thru.webm](https://user-images.githubusercontent.com/22803118/212503536-1b19e699-56d6-4592-bf66-3b5e329bb64d.webm)
 
 ## License
 The MIT License
